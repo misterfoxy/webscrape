@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/misterfoxy/webscrape/issues"
   },
-  "homepage": "https://github.com/misterfoxy/webscrape#readme"
+  "homepage": "https://github.com/misterfoxy/webscrape#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "moment": "^2.19.2",
+    "mongoose": "^4.13.4",
+    "request": "^2.83.0"
+  }
 }
